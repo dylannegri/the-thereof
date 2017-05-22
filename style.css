@@ -80,12 +80,12 @@ img {
 #hold01{
     display: block;
     height:85vh;
-    background: url("images/OB_06b.JPG") no-repeat center center;
+    background: url("images/OB_06.jpg") no-repeat center center;
     background-size: cover;
 }
 #hold02{
     display: none;
     height:85vh;
-    background: url("images/BW_06b.JPG") no-repeat center center;
+    background: url("images/BW_06.jpg") no-repeat center center;
     background-size: cover;
 }
